@@ -1,3 +1,4 @@
 {
-    "simpleBrowser.focusLockIndicator.enabled": false
+    "simpleBrowser.focusLockIndicator.enabled": false,
+    "stackblitz.preferBuiltinBrowser": false
 }
