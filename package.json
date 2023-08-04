@@ -6,7 +6,8 @@
   "scripts": {
     "postinstall": "patch-package",
     "develop": "strapi develop",
-    "start": "strapi build && strapi start",
+    "prestart": "strapi build",
+    "start": "strapi start",
     "build": "strapi build",
     "strapi": "strapi"
   },
