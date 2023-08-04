@@ -3,7 +3,7 @@ Demo of strapi running in browser (Experimental)
 
 ### Navigate to below link
 
-(Stackblitz Strapi Demo)[https://stackblitz.com/~/github.com/suryamodulus/stackblitz-strapi-demo]
+[Stackblitz Strapi Demo](https://stackblitz.com/~/github.com/suryamodulus/stackblitz-strapi-demo)
 
 ### `Build`
 
