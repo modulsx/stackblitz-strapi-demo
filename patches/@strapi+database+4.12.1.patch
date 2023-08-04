@@ -1,0 +1,13 @@
+diff --git a/node_modules/@strapi/database/lib/dialects/sqlite/index.js b/node_modules/@strapi/database/lib/dialects/sqlite/index.js
+index 13af481..44c4a52 100644
+--- a/node_modules/@strapi/database/lib/dialects/sqlite/index.js
++++ b/node_modules/@strapi/database/lib/dialects/sqlite/index.js
+@@ -27,7 +27,7 @@ class SqliteDialect extends Dialect {
+   }
+ 
+   useReturning() {
+-    return true;
++    return false;
+   }
+ 
+   async initialize() {
